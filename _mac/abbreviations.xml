@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ActivatenpmToolWindow" />
+      <action id="ActivateGulpToolWindow">
+        <abbreviation name="gulp" />
+      </action>
+      <action id="Compare.SameVersion" />
+      <action id="ActivateTerminalToolWindow" />
+    </abbreviations>
+  </component>
+</application>

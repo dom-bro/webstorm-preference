@@ -1,0 +1,44 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.idea;.rpt2_cache;.svn;.vscode;CVS;__pycache__;_svn;ant-css;dist;node_modules;venv;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping ext="php" type="HTML" />
+      <mapping ext="twig" type="HTML" />
+      <mapping ext="wxml" type="HTML" />
+      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern="util" type="JavaScript" />
+      <mapping ext="numbers" type="Native" />
+      <mapping pattern="sy_sync" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="NewGroupForm" type="PLAIN_TEXT" />
+      <mapping pattern="js" type="PLAIN_TEXT" />
+      <mapping pattern="sd" type="PLAIN_TEXT" />
+      <mapping pattern="DashboardMixin" type="PLAIN_TEXT" />
+      <mapping pattern="searchHints" type="PLAIN_TEXT" />
+      <mapping pattern="utils" type="PLAIN_TEXT" />
+      <mapping pattern="vars" type="PLAIN_TEXT" />
+      <mapping pattern="_ruleset1" type="PLAIN_TEXT" />
+      <mapping pattern="Wepy" type="PLAIN_TEXT" />
+      <mapping pattern="variables" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="debug_test" type="PLAIN_TEXT" />
+      <mapping ext="marji" type="PLAIN_TEXT" />
+      <mapping ext="jtml" type="PLAIN_TEXT" />
+      <mapping ext="jjs" type="PLAIN_TEXT" />
+      <mapping ext="marko" type="PLAIN_TEXT" />
+      <mapping ext="testjs" type="PLAIN_TEXT" />
+      <mapping ext="7" type="PLAIN_TEXT" />
+      <mapping ext="scs" type="PLAIN_TEXT" />
+      <mapping ext="jss" type="PLAIN_TEXT" />
+      <mapping ext="8" type="PLAIN_TEXT" />
+      <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="tx" type="PLAIN_TEXT" />
+      <mapping pattern="V3NewFeatures" type="Vue.js" />
+      <mapping ext="nvue" type="Vue.js" />
+      <mapping ext="ux" type="Vue.js" />
+      <mapping ext="wpy" type="Vue.js" />
+    </extensionMap>
+  </component>
+</application>

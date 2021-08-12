@@ -1,0 +1,25 @@
+<templateSet group="@css">
+  <template name="flex-column" value="display: flex;&#10;flex-direction: column;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="y-center" value="display: flex;&#10;align-items: center;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="fs" value="font-size: $fontSize$px;" description="font-size" toReformat="false" toShortenFQNames="true">
+    <variable name="fontSize" expression="" defaultValue="&quot;12&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+  <template name="mt" value="margin-top: $fontSize$px;" description="margin-top" toReformat="false" toShortenFQNames="true">
+    <variable name="fontSize" expression="" defaultValue="&quot;16&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+</templateSet>

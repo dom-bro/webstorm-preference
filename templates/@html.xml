@@ -1,0 +1,25 @@
+<templateSet group="@html">
+  <template name="hkd" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  data () {&#10;    return {&#10;      selected: {&#10;      },&#10;      helper: {&#10;      },&#10;    }&#10;  },&#10;  methods: {&#10;  },&#10;  computed: {&#10;  },&#10;  created: {&#10;  },&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;less&quot; scoped&gt;&#10;@import &quot;~@/components/common.less&quot;;&#10;&lt;/style&gt;&#10;" description="黑科抖Page" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
+  <template name="src" value="src=&quot;http://localhost:9527/test/svg?w=520&amp;h=520&quot;" description="src with placeholder" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="VUE_INSIDE_TAG" value="true" />
+    </context>
+  </template>
+  <template name="div" value="&lt;div&gt;$END$&lt;/div&gt;" description="zen div" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+  <template name="span" value="&lt;span&gt;$END$&lt;/span&gt;" description="zen span" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+</templateSet>
