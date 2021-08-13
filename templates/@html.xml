@@ -1,5 +1,5 @@
 <templateSet group="@html">
-  <template name="hkd" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  data () {&#10;    return {&#10;      selected: {&#10;      },&#10;      helper: {&#10;      },&#10;    }&#10;  },&#10;  methods: {&#10;  },&#10;  computed: {&#10;  },&#10;  created() {&#10;  },&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;less&quot; scoped&gt;&#10;@import &quot;~@/components/common.less&quot;;&#10;&lt;/style&gt;&#10;" description="黑科抖Page" toReformat="false" toShortenFQNames="true">
+  <template name="hkd" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  data () {&#10;    return {&#10;      selected: {&#10;      },&#10;      helper: {&#10;      },&#10;      loading: {&#10;      },&#10;      popup: {&#10;      },&#10;      constants: {&#10;      },&#10;      model: {&#10;      },&#10;    }&#10;  },&#10;  methods: {&#10;  },&#10;  computed: {&#10;  },&#10;  created() {&#10;  },&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;less&quot; scoped&gt;&#10;@import &quot;~@/components/common.less&quot;;&#10;&lt;/style&gt;&#10;" description="黑科抖Page" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="VUE_TOP_LEVEL" value="true" />
     </context>
@@ -20,6 +20,11 @@
     <context>
       <option name="HTML" value="true" />
       <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
+  <template name="hkdc" value="&lt;template&gt;&#10;  &lt;div&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&lt;script&gt;&#10;export default {&#10;  props: {},&#10;  data () {&#10;    return {&#10;      selected: {&#10;      },&#10;      helper: {&#10;      },&#10;      loading: {&#10;      },&#10;      popup: {&#10;      },&#10;      constants: {&#10;      },&#10;      model: {&#10;      },&#10;    }&#10;  },&#10;  methods: {&#10;  },&#10;  computed: {&#10;  },&#10;  created() {&#10;  },&#10;}&#10;&lt;/script&gt;&#10;&lt;style lang=&quot;less&quot; scoped&gt;&#10;@import &quot;~@/components/common.less&quot;;&#10;&lt;/style&gt;&#10;" description="黑科抖Component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_TOP_LEVEL" value="true" />
     </context>
   </template>
 </templateSet>
