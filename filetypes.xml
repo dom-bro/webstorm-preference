@@ -28,6 +28,7 @@
       <mapping ext="jtml" type="PLAIN_TEXT" />
       <mapping ext="jjs" type="PLAIN_TEXT" />
       <mapping ext="marko" type="PLAIN_TEXT" />
+      <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="testjs" type="PLAIN_TEXT" />
       <mapping ext="7" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
