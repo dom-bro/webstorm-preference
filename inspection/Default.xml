@@ -187,6 +187,7 @@
   <inspection_tool class="InfiniteRecursionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InjectedReferences" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JSAccessibilityCheck" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSAnnotator" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JSArrowFunctionBracesCanBeRemoved" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="JSAssignmentUsedAsCondition" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSBitwiseOperatorUsage" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -197,7 +198,6 @@
   <inspection_tool class="JSConsecutiveCommasInArrayLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSDeprecatedSymbols" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSDuplicateCaseLabel" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSDuplicatedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSFileReferences" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
