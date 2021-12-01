@@ -4,7 +4,7 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
-  <template name="y-center" value="display: flex;&#10;align-items: center;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ycenter" value="display: flex;&#10;align-items: center;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
