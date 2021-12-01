@@ -17,4 +17,7 @@
     <option name="SHOW_LST_ERROR_STRIPE_MARKERS" value="false" />
     <option name="ENABLE_PARTIAL_CHANGELISTS" value="false" />
   </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
+  </component>
 </application>
