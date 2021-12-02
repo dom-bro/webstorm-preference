@@ -6,7 +6,6 @@
       <mapping ext="php" type="HTML" />
       <mapping ext="twig" type="HTML" />
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="util" type="JavaScript" />
       <mapping ext="numbers" type="Native" />
       <mapping pattern="sy_sync" type="PLAIN_TEXT" />
