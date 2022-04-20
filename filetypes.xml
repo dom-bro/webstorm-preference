@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.ignore.js;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.idea;.rpt2_cache;.svn;.vscode;CVS;__pycache__;_svn;ant-css;china.json;createjs.min.js;dist;echarts.changed.min.js;venv;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*.ignore.js;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.idea;.rpt2_cache;.svn;.vscode;CVS;__pycache__;_svn;ant-css;china.json;createjs.min.js;dist;echarts.changed.min.js;node_modules;venv;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="512010" type="AUTO_DETECTED" />
       <mapping ext="twig" type="HTML" />
