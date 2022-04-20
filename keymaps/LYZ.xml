@@ -124,6 +124,9 @@
   <action id="Images.Thumbnails.UpFolder" />
   <action id="IntroduceConstant" />
   <action id="JumpToLastWindow" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MinimizeCurrentWindow" />
   <action id="Move" />
