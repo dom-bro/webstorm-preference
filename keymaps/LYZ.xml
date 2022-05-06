@@ -16,16 +16,26 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="ActivateVersionControlToolWindow" />
+  <action id="Arrangement.Alias.Rule.Add" />
   <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Add" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="BookmarksView.Create" />
+  <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ChangesView.UnshelveSilently" />
   <action id="ClassNameCompletion" />
   <action id="CloseActiveTab" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CodeCompletion" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
@@ -96,10 +106,21 @@
   <action id="EditorPageUpWithSelection" />
   <action id="EditorPasteFromX11" />
   <action id="EditorPasteSimple" />
+  <action id="EditorToggleColumnMode" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="ExtractMethod" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.NewFolder" />
+  <action id="FileChooser.TogglePathBar" />
+  <action id="FileChooserList.LevelUp" />
+  <action id="FileChooserList.Root" />
   <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Git.Add" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.ResolveConflicts">
@@ -111,9 +132,18 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+  </action>
   <action id="GotoNextError" />
   <action id="GotoSuperMethod" />
+  <action id="GotoSymbol" />
+  <action id="GotoTest" />
   <action id="GotoTypeDeclaration" />
+  <action id="GotoUrlAction" />
+  <action id="Graph.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
   <action id="HideActiveWindow" />
   <action id="HideAllWindows" />
   <action id="Images.EditExternally" />
@@ -122,14 +152,27 @@
   <action id="Images.Thumbnails.EnterAction" />
   <action id="Images.Thumbnails.ToggleRecursive" />
   <action id="Images.Thumbnails.UpFolder" />
+  <action id="Inline" />
+  <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceField" />
+  <action id="IntroduceParameter" />
+  <action id="IntroduceVariable" />
   <action id="JumpToLastWindow" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="MaximizeToolWindow" />
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MinimizeCurrentWindow" />
   <action id="Move" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
@@ -141,6 +184,8 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="PasteMultiple" />
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
@@ -151,14 +196,20 @@
   </action>
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations" />
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="RecentChanges" />
   <action id="RecentFiles" />
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="Refresh" />
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
+  <action id="Rerun" />
   <action id="RestoreDefaultLayout" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
@@ -174,6 +225,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAs" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NavigateToNextGroup" />
   <action id="SearchEverywhere.NavigateToPrevGroup" />
@@ -181,18 +233,29 @@
   <action id="SearchEverywhere.PrevTab" />
   <action id="SelectNextOccurrence" />
   <action id="SendEOF" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowNavBar" />
   <action id="SmartTypeCompletion" />
+  <action id="SurroundWith" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Synchronize" />
   <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
   <action id="ToggleFullScreen" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push" />
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.RefreshFileHistory" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
