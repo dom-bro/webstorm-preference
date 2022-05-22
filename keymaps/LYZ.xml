@@ -7,6 +7,7 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
@@ -145,7 +146,9 @@
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="HideActiveWindow" />
-  <action id="HideAllWindows" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="Images.EditExternally" />
   <action id="Images.Editor.ActualSize" />
   <action id="Images.Editor.ToggleGrid" />
