@@ -104,6 +104,9 @@
       <version value="0.16.2-3" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-0.16.2-3.tgz" />
       <version value="0.16.1-3" url="https://registry.npmjs.org/@web-types/vuetify/-/vuetify-0.16.1-3.tgz" />
     </package>
+    <package name="@web-types/ant-design-vue">
+      <version value="1.7.2-2" url="https://registry.npmjs.org/@web-types/xxxxxxxxxxx" />
+    </package>
     <enabled>
       <package name="bootstrap-vue" />
       <package name="quasar" />
