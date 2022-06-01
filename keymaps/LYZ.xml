@@ -128,6 +128,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="Git.Reword.Commit" />
+  <action id="GotoAction" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoDeclaration">
