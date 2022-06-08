@@ -8,11 +8,13 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProblemsViewToolWindow" />
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
@@ -32,6 +34,7 @@
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Move" />
+  <action id="ChangesView.Rename" />
   <action id="ChangesView.SetDefault" />
   <action id="ChangesView.ShelveSilently" />
   <action id="ChangesView.UnshelveSilently" />
@@ -62,6 +65,7 @@
   </action>
   <action id="CopyReference" />
   <action id="Debug" />
+  <action id="DebugClass" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
@@ -155,6 +159,7 @@
   <action id="FileStructurePopup" />
   <action id="FindNext" />
   <action id="FindPrevious" />
+  <action id="ForceRunToCursor" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
@@ -283,15 +288,11 @@
     <keyboard-shortcut first-keystroke="meta alt e" />
   </action>
   <action id="Run" />
-  <action id="RunAnything">
-    <keyboard-shortcut first-keystroke="shift ctrl meta space" />
-  </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
+  <action id="RunClass" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunInspection" />
   <action id="RunJsbtTask" />
+  <action id="RunToCursor" />
   <action id="SaveAs" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NavigateToNextGroup" />
@@ -325,6 +326,7 @@
   <action id="TypeHierarchy" />
   <action id="UnselectPreviousOccurrence" />
   <action id="Unwrap" />
+  <action id="UpdateRunningApplication" />
   <action id="UsageView.Rerun" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
@@ -332,10 +334,10 @@
   <action id="Vcs.Push" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.RefreshFileHistory" />
-  <action id="Vcs.ShowMessageHistory">
-    <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
+  <action id="Vcs.ShowMessageHistory" />
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
+  <action id="VcsHistory.ShowAllAffected" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewBreakpoints" />
@@ -349,6 +351,7 @@
   <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.JumpToTypeSource" />
   <action id="XDebugger.SetValue" />
   <action id="ZoomCurrentWindow" />
   <action id="context.clear" />
