@@ -83,7 +83,6 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="EditorChooseLookupItemDot" />
-  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart">

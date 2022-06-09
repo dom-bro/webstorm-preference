@@ -72,9 +72,6 @@
   <template name="basefont" value="&lt;basefont&gt;" description="&lt;basefont&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="br" value="&lt;br&gt;" description="&lt;br&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
   <template name="frame" value="&lt;frame&gt;" description="&lt;frame&gt;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
