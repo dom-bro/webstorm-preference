@@ -40,6 +40,15 @@
     <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
     <option name="disabledLanguages">
       <set>
         <option value="TypeScript" />
@@ -47,6 +56,18 @@
     </option>
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+    <settingsMapElement>
+      <JavaScript.js.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </JavaScript.js.type.hints>
+      <TypeScript.ts.type.hints>
+        <Settings>
+          <option name="showForInferredParameters" value="false" />
+        </Settings>
+      </TypeScript.ts.type.hints>
+    </settingsMapElement>
   </component>
   <component name="JSEditorOptions">
     <option name="CONVERT_HTML_TO_JSX" value="false" />
