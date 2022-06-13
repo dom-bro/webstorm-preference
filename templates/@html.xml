@@ -1,5 +1,5 @@
 <templateSet group="@html">
-  <template name="srcp" value="src=&quot;http://localhost:9527/test/svg?w=520&amp;h=520&quot;" description="src with placeholder" toReformat="false" toShortenFQNames="true">
+  <template name="srcp" value="src=&quot;http://localhost:9527/test/svg?w=360&amp;h=360&quot;" description="src with placeholder" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="VUE_INSIDE_TAG" value="true" />
