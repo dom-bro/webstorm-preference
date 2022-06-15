@@ -115,6 +115,7 @@
       <package name="vuetify" />
       <package name="@nuxt/vue-app" />
       <package name="element-plus" />
+      <package name="ant-design-vue" />
     </enabled>
   </component>
 </application>
